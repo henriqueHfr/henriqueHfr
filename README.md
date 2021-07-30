@@ -20,7 +20,7 @@
    
  
  
- ![Snake animation](https://https://github.com/RACKN4R0K/RACKN4R0K/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/RACKN4R0K/RACKN4R0K/blob/output/github-contribution-grid-snake.svg)
  
  
 <!--Creditos para a github.com/rafaballerini-->
