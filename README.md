@@ -22,5 +22,14 @@
  
  ![Snake animation](https://github.com/RACKN4R0K/RACKN4R0K/blob/output/github-contribution-grid-snake.svg)
  
+ <p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/RACKN4R0K/count.svg" />
+ </p>
+
+</p>
+ 
  
 <!--Creditos para a github.com/rafaballerini-->
