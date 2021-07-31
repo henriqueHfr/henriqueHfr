@@ -31,9 +31,6 @@
 
 </p>
 
-<p align="center">     
-<!--[RACKN4R0K skyline gif]   get yours from here: https://skyline.github.com/    -->
-<img src="https://github.com/RACKN4R0K/RACKN4R0K/blob/master/.github/workflows/ezgif.com-gif-maker.gif" height="350" width="800">
  
  
 <!--Creditos para a github.com/rafaballerini-->
