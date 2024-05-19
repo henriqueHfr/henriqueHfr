@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Henrique Fernandes Rodrigues👋
  <div>
-  <a href="https://github.com/RACKN4R0K">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RACKN4R0K&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RACKN4R0K&layout=compact&langs_count=7&theme=dracula">
+  <a href="https://github.com/henriqueHfr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueHfr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueHfr&layout=compact&langs_count=7&theme=dracula">
 </div>
    <div style="display: inline_block"><br>
    <img align="center" alt="Henrique Fernandes Rodrigues - HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,13 +26,13 @@
    
  
  
- ![Snake animation](https://github.com/RACKN4R0K/RACKN4R0K/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/henriqueHfr/henriqueHfr/blob/output/github-contribution-grid-snake.svg)
  
  <p align="center"> 
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/RACKN4R0K/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/henriqueHfr/count.svg" />
  </p>
 
 </p>
